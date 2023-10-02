@@ -1,0 +1,20 @@
+{
+  "name": "home_work",
+  "version": "1.0.0",
+  "description": "This is your README. READMEs are where you can communicate what your project is and how to use it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serhii-Poliakov/Home_Work.git"
+  },
+  "keywords": [],
+  "author": "Serhii-Poliakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serhii-Poliakov/Home_Work/issues"
+  },
+  "homepage": "https://github.com/Serhii-Poliakov/Home_Work#readme"
+}
